@@ -18,6 +18,6 @@ Feel free to use the image or the github action by forking it.
 
 If you want to use this image just run:
 
-```sysupgrade "https://github.com/amaumene/xiaomi_redmi-router-ac2100_openwrt_mesh/releases/latest/download/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-sysupgrade.bin"```
+```sysupgrade "https://github.com/fernandoacf/xiaomi_redmi-router-ac2100_openwrt_mesh/releases/latest/download/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-sysupgrade.bin"```
 
 Please note that I might change the packages included without notice. This image is built for my personnal use first.
